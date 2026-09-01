@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>BoardGameHub</title>
+  <rect width="64" height="64" rx="17" fill="#241a14"/>
+  <rect x="5" y="5" width="54" height="54" rx="14" fill="none" stroke="#c08e3a" stroke-width="2"/>
+  <path d="M32 10 43 21 32 32 21 21Z" fill="#d94b54"/>
+  <path d="m16 38 8-7 8 7-3 12H19Z" fill="#3c6d9c"/>
+  <path d="m37 36 8-4 8 7-3 11H40Z" fill="#3f927c"/>
+  <circle cx="32" cy="32" r="4" fill="#d9a928"/>
+</svg>
